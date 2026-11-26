@@ -58,3 +58,7 @@ Also: [Method](METHOD.md), [all sources](SOURCES.md), [the raw research log](res
 
 MEASURED (my arithmetic or counts), ESTIMATE (my judgment), UNVERIFIED (one secondary source or disputed details), SPECULATION (the shots in the
 dark). See [Method](METHOD.md).
+
+## License
+
+Text and code: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) ([LICENSE](LICENSE)). Records of the United States government quoted here are in the public domain; quotations from papers and articles are short and used for comment and citation.
