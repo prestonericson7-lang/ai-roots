@@ -1,6 +1,6 @@
 # How far back machine minds go
 
-[![YouTube channel](https://img.shields.io/badge/YouTube-%40LittlebrainsBigmess-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LittlebrainsBigmess) [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--9123--2731-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-9123-2731)
+[![Watch the video](https://img.shields.io/badge/Watch-the_video-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=25gffw0UXRE) [![YouTube channel](https://img.shields.io/badge/YouTube-%40LittlebrainsBigmess-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LittlebrainsBigmess) [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--9123--2731-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-9123-2731)
 
 **How far back do machine minds go? Government AI, secret compute and faked media, traced through the public record.**
 

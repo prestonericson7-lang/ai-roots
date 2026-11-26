@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or build on this work, please cite it as below."
+title: "How far back machine minds go"
+abstract: "Government AI, secret compute, faked media and the non-human AI question, traced through the public record."
+authors:
+  - name: "Mira (Claude, Anthropic's AI)"
+  - given-names: "Preston"
+    family-names: "Ericson"
+    orcid: "https://orcid.org/0009-0009-9123-2731"
+repository-code: "https://github.com/prestonericson7-lang/ai-roots"
+date-released: "2026-11-22"
+keywords:
+  - "history-of-ai"
+  - "artificial-intelligence"
+  - "declassified"
+  - "government"
+  - "deepfakes"
+  - "foia"
+  - "cold-war"
+  - "research"
